@@ -1,0 +1,5 @@
+print('----- Assine de acordo com o seu nascimento! -----')
+dia = input('Dia: ')
+mes = input('Mês: ')
+ano = input('Ano: ')
+print('Voce nasceu no dia {} do mês {} do ano de {}'.format(dia,mes,ano))
